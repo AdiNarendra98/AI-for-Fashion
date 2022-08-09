@@ -1,5 +1,5 @@
 
-# iDresser : An AI Based Fashion Reccomendation System
+# iDresser : An AI Based Fashion Recommendation System
 
 **It is a personalized Fashion Recommender system that generates recommendations for the user based on an input given.It was built during my Senior Year of my Undergrad.**
 
