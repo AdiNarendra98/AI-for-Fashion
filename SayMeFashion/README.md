@@ -1,5 +1,5 @@
 
-# Recommender System : Ecommerce Project - Clothes Recommendation
+# Recommender System : Ecommerce Project - Fashion Recommendation
 
 **It is a personalized Fashion Recommender system that generates recommendations for the user based on an input given.It was built during my Senior Year of my Undergrad.**
 
