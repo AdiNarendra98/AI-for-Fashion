@@ -1,7 +1,7 @@
 
 # Recommender System : Ecommerce Project - Clothes Recommendation
 
-**It is a personalized Fashion Recommender system that generates recommendations for the user based on an input given.It has been built as the solution to Microsoft Engage Challenge 2022.**
+**It is a personalized Fashion Recommender system that generates recommendations for the user based on an input given.It was built during my Senior Year of my Undergrad.**
 
 ## 📌Table of Contents
 * [Introduction](#introduction)
