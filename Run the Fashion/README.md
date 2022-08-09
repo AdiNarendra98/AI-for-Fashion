@@ -1,4 +1,4 @@
-# Clothing-Recommender-System
+# Run the Fashion : A Rental Clothing Recommender System
 
 Project   : Applications of AI
 
