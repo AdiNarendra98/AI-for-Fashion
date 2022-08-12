@@ -26,7 +26,7 @@ Finally, I created a UI with Gradio UI library. All the development is done on C
 One of the challenges I faced was fixing a memory leak issue. Part of the code keeps crashing, and I initially thought I cannot fit the model to the GPU memory, however, after hours of debugging, I finally found the code that has the memory leak.
 
 ## What I learned
-I am already quite familiar with GAN but I have always been intimidated on deploying ML models. Luckily, I discovered Gradio UI, a library that makes ML deployment very easy. There were also other alternatives such as StreamLit or Dash, but found Gradio as the easiest to work with. One shortcoming is that it's quite inflexible in terms of customization.
+I am a beginner but comfortable with GAN but I have always been intimidated on deploying ML models. Luckily, I discovered Gradio UI, a library that makes ML deployment very easy. There were also other alternatives such as StreamLit or Dash, but found Gradio as the easiest to work with. One shortcoming is that it's quite inflexible in terms of customization.
 
 ## What's next for ClothingGAN
 There is a lot of potential for the project. Some features that can be added are appearance transfer, image inversion (uploading & editing real image), generating the fashion model itself, conditional text input with OpenAI CLIP model, etc.
