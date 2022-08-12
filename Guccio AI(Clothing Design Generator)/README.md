@@ -1,5 +1,6 @@
 # Guccio AI: GAN Powered Clothing Design Generator
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mfrashad/ClothingGAN/blob/master/ClothingGAN_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdiNarendra98/AI-for-Fashion/blob/main/Guccio%20AI(Clothing%20Design%20Generator)/ClothingGAN_Demo.ipynb)
+
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/mfrashad/ClothingGAN)
 
 
