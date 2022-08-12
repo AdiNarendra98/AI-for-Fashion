@@ -1,12 +1,11 @@
 # Guccio AI: GAN Powered Clothing Design Generator
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdiNarendra98/AI-for-Fashion/blob/main/Guccio%20AI(Clothing%20Design%20Generator)/ClothingGAN_Demo.ipynb)
-
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/mfrashad/ClothingGAN)
 
 
 ![teaser](clothing-gan-thumbnail.gif)
 
-[Devpost Link](https://devpost.com/software/clothinggan) | [Youtube Video](https://www.youtube.com/watch?v=dHuunRnMnMo)
+
 
 ## Inspiration
 GAN or Generative Adversarial Network is a generative model that able to generate images by learning the probability distribution of a large image dataset. I always find GANs fascinating as it enables me to generate high-quality arts or design even without the technical or artistic skill in drawing. Recently, I've seen many face editing demonstrations on GAN, but never seen semantic manipulation in other datasets. Hence,  I created ClothingGAN an application where you can collaboratively design clothes without high technical expertise.
