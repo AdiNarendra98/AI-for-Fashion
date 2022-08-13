@@ -40,7 +40,7 @@ I would like to thank:
 * Justin Pinkney for the [Awesome Pretrained StyleGAN][pretrained_stylegan] collection.
 * Tuomas Kynkäänniemi for giving us a helping hand with the experiments.
 * The Aalto Science-IT project for providing computational resources for this project.
-* Erik Härkönen and Muhammad Fathy Rashad for the inspiration for the project
+* [Erik Härkönen](https://github.com/harskish/ganspace) and Muhammad Fathy Rashad for the inspiration for the project
 
 
 ## Citation
@@ -57,5 +57,5 @@ I would like to thank:
 [stylegan2_pytorch]: https://github.com/rosinality/stylegan2-pytorch
 [gandissect]: https://github.com/CSAILVision/GANDissect
 [pretrained_stylegan]: https://github.com/justinpinkney/awesome-pretrained-stylegan
-[Erik Härkönen]: https://github.com/harskish/ganspace
+
 
