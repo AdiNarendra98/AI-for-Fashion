@@ -52,3 +52,8 @@ I would like to thank:
   year      = {2020}
 }
 ```
+[biggan_pytorch]: https://github.com/huggingface/pytorch-pretrained-BigGAN
+[stylegan_pytorch]: https://github.com/lernapparat/lernapparat/blob/master/style_gan/pytorch_style_gan.ipynb
+[stylegan2_pytorch]: https://github.com/rosinality/stylegan2-pytorch
+[gandissect]: https://github.com/CSAILVision/GANDissect
+[pretrained_stylegan]: https://github.com/justinpinkney/awesome-pretrained-stylegan
