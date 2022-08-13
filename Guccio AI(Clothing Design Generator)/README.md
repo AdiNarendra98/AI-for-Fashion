@@ -57,3 +57,5 @@ I would like to thank:
 [stylegan2_pytorch]: https://github.com/rosinality/stylegan2-pytorch
 [gandissect]: https://github.com/CSAILVision/GANDissect
 [pretrained_stylegan]: https://github.com/justinpinkney/awesome-pretrained-stylegan
+[Erik Härkönen]: https://github.com/harskish/ganspace
+
