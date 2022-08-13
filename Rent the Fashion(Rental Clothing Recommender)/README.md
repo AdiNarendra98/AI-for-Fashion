@@ -11,4 +11,4 @@ The objective of this project is to group the users by their predicted body type
 
 Dataset: [Rent-the-Runway](http://deepx.ucsd.edu/public/jmcauley/renttherunway/renttherunway_final_data.json.gz)
 
-PS: Please keep code file(Run-the-Fashion.ipynb) and dataset in the same folder while running the code.
+PS: Please keep code file(Rent-the-Fashion.ipynb) and dataset in the same folder while running the code.
