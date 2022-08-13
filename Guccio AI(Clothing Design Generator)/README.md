@@ -31,6 +31,17 @@ I am a beginner but comfortable with GAN but I have always been intimidated on d
 ## What's next for GuccioAI
 There is a lot of potential for the project. Some features that can be added are appearance transfer, image inversion (uploading & editing real image), generating the fashion model itself, conditional text input with OpenAI CLIP model, etc.
 
+## Acknowledgements
+I would like to thank:
+
+* The authors of the PyTorch implementations of [BigGAN][biggan_pytorch], [StyleGAN][stylegan_pytorch], and [StyleGAN2][stylegan2_pytorch]:<br>Thomas Wolf, Piotr Bialecki, Thomas Viehmann, and Kim Seonghyeon.
+* Joel Simon from ArtBreeder for providing us with the landscape model for StyleGAN.<br>(unfortunately we cannot distribute this model)
+* David Bau and colleagues for the excellent [GAN Dissection][gandissect] project.
+* Justin Pinkney for the [Awesome Pretrained StyleGAN][pretrained_stylegan] collection.
+* Tuomas Kynkäänniemi for giving us a helping hand with the experiments.
+* The Aalto Science-IT project for providing computational resources for this project.
+* Erik Härkönen and Muhammad Fathy Rashad for the inspiration for the project
+
 
 ## Citation
 ```
