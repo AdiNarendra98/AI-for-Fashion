@@ -164,11 +164,10 @@ streamlit run main.py
 
 ## 💡Challenges Faced and Learnings
 
-- Had very basic knowledge of Deep Learning before the Microsoft Engage Program's qualification announcement. Spentquality time on learning the new concepts attached to Deep Learning and then began the design-build process of this project.
 
 - Had to learn streamlit for creating graphical UI.
 
-- Setting the dependencies with proper version is the most critical. 
+- Setting the dependencies with proper versions demanded a lot of time.
 
 
 ## 📚Resources
