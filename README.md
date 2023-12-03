@@ -7,7 +7,7 @@ Artificial Intelligence has a significant impact on all aspects of Fashion,from 
 
 2. ### [iDresser : An AI Based Fashion Recommendation Assistant](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/iDresser-An%20AI%20Based%20Fashion%20Assistant)
 ![iDresser](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/iDresser.png)
-- Using Nueral Nets, iDresser unlike the conventional systems that rely on the user's previous purchases and history, this project aims at using an image of a product given as input by the user to generate recommendations since many-a-time people see something that they are interested in and tend to look for products that are similar to that.
+- Using Neural Nets, iDresser unlike the conventional systems that rely on the user's previous purchases and history, this project aims at using an image of a product given as input by the user to generate recommendations since many-a-time people see something that they are interested in and tend to look for products that are similar to that.
 
 3. ### [What's this Called(Fashion Clothing Segementation)](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/What's%20this%20Called(Fashion%20Clothing%20Segementation))
 ![WtCiF](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/What's%20this%20Called.png)
