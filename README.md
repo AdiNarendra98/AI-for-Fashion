@@ -1,13 +1,13 @@
 # Applications of AI in Fashion Industry
-- This repository contains all experiments conducted part of my **undergraduate thesis** titled **"Applications of AI in Fashion Industry"** at OUTR.
-- Artificial Intelligence has significantly influenced every aspect of the fashion industry, spanning design, production, and consumption. With its rapid pace of development, AI has seamlessly integrated into the fashion world, known for its openness to adopting new technologies. Over the past decade, AI has been utilized for analyzing fashion trends and understanding consumer preferences. Its impact on style and its role in phenomena like Fast Fashion are undeniable. The digitalization of the clothing industry, evolving from version 4.0 to an imminent 5.0, underscores the increasing reliance on advanced technology, particularly the broader integration of Artificial Intelligence. This involves diverse applications such as Recommendation Systems, Anomaly Detection in Textiles, Smart Textiles, AI-based Designing, Trend Prediction, and more.
+- This repository contains all experiments conducted part of my **undergraduate thesis** titled **"Applications of Artificial Intelligence in Fashion Industry"** at OUTR.
+- Artificial Intelligence has significantly influenced every aspect of the fashion industry, spanning design, production, and consumption. With its rapid pace of development, AI has seamlessly integrated into the fashion world, known for its openness to adopting new technologies. Over the past decade, AI has been utilized for analyzing fashion trends and understanding consumer preferences. Its impact on style and its role in phenomena like Fast Fashion is undeniable. The digitalization of the clothing industry, evolving from version 4.0 to an imminent 5.0, underscores the increasing reliance on advanced technology, particularly the broader integration of Artificial Intelligence. This involves diverse applications such as Recommendation Systems, Anomaly Detection in Textiles, Smart Textiles, AI-based Designing, Trend Prediction, and more.
 
 
 
 ## List of Projects
 1. ### [Guccio AI(Clothing Design Generator)](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/Guccio%20AI(Clothing%20Design%20Generator))
 ![teaser](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/Guccio%20Ai.png)
-- Using Generative Adversarial Networks , GuccioAI able to generate clothing images and mix these images. While mixing, you can control which structure or style that you want the clothing to copy. Additionally, you can edit the generated clothing with several given attributes such as dark color, jacket, dress, or coat.
+- Using Generative Adversarial Networks, GuccioAI can generate clothing images and mix these images. While mixing, you can control which structure or style that you want the clothing to copy. Additionally, you can edit the generated clothing with several given attributes such as dark colour, jacket, dress, or coat.
 
 2. ### [iDresser : An AI Based Fashion Recommendation Assistant](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/iDresser-An%20AI%20Based%20Fashion%20Assistant)
 ![iDresser](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/iDresser.png)
