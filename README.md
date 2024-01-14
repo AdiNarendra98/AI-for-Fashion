@@ -1,5 +1,9 @@
-# AI for Fashion
-Artificial Intelligence has a significant impact on all aspects of Fashion,from designing to production and consumption. Fashion has always been a forward-looking phenomenon, willing to adopt new technologies as they emerge. Artificial Intelligence is no exception as it moves as fast as Fashion.It has been used in analyzing fashion trends and consumer needs for over a decade. Its impact on style and the enhancement of phenomena as Fast Fashion, is indisputable. The clothing industry 4.0 digitalization is increasingly relying on the use of advanced technology, moving towards its 5.0 version, the use of Artificial Intelligence in the broader scope of activities.Ranging from Recommendation Systems, Anamoly Detection in Textiles, Smart textiles, Ai based Designing, Trend prediction etc to name a few. This repo is a collection of all of my attempts during my undergrad thesis to apply AI to the Fashion Industry.
+# Applications of AI in Fashion Industry
+- This repository contains all experiments conducted part of my **undergraduate thesis** titled **"Applications of AI in Fashion Industry"** at OUTR.
+- Artificial Intelligence has significantly influenced every aspect of the fashion industry, spanning design, production, and consumption. With its rapid pace of development, AI has seamlessly integrated into the fashion world, known for its openness to adopting new technologies. Over the past decade, AI has been utilized for analyzing fashion trends and understanding consumer preferences. Its impact on style and its role in phenomena like Fast Fashion are undeniable. The digitalization of the clothing industry, evolving from version 4.0 to an imminent 5.0, underscores the increasing reliance on advanced technology, particularly the broader integration of Artificial Intelligence. This involves diverse applications such as Recommendation Systems, Anomaly Detection in Textiles, Smart Textiles, AI-based Designing, Trend Prediction, and more.
+
+
+
 ## List of Projects
 1. ### [Guccio AI(Clothing Design Generator)](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/Guccio%20AI(Clothing%20Design%20Generator))
 ![teaser](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/Guccio%20Ai.png)
