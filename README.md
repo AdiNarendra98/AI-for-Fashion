@@ -14,7 +14,7 @@ Our findings highlight the transformative potential of **generative modelling fo
 
 
 ## Experiments
-1. ### [GAN Based Fashion Outfit Generator](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/Guccio%20AI(Clothing%20Design%20Generator))
+1. ### [GAN Based Fashion Outfit Generator](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/GAN%20Based%20Fashion%20Outfit%20Generator)
 ![teaser](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/Guccio%20Ai.png)
 - Using Generative Adversarial Networks, our model can generate clothing images and mix these images. While mixing, you can control which structure or style you want the clothing to copy. Additionally, you can edit the generated clothing with several given attributes such as dark colour, jacket, dress, or coat.
 
