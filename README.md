@@ -1,5 +1,5 @@
 # Generative Models and Recommender Systems for AI-driven Fashion
-- This repository contains all experiments conducted as part of my **undergraduate thesis** titled **"Generative Models and Recommender Systems for AI-driven Fashion"** at OUTR.
+- This repository contains my work done as part of my **undergraduate thesis** titled **"Generative Models and Recommender Systems for AI-driven Fashion"** at OUTR.
 
 ## Abstract
 
