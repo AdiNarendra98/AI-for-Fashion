@@ -1,5 +1,5 @@
 # Generative Models and Recommender Systems for AI-driven Fashion
-- This repository contains all experiments conducted part of my **undergraduate thesis** titled **"Generative Models and Recommender Systems for AI-driven Fashion"** at OUTR.
+- This repository contains all experiments conducted as part of my **undergraduate thesis** titled **"Generative Models and Recommender Systems for AI-driven Fashion"** at OUTR.
 
 ## Abstract
 
@@ -24,11 +24,11 @@ Our findings highlight the transformative potential of **generative modelling fo
 
 
 ## Additional Experiments
- ### [What's this Called(Fashion Clothing Segementation)](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/What's%20this%20Called(Fashion%20Clothing%20Segementation))
+ ### [What's this Called(Fashion Clothing Segmentation)](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/Additional%20Experiments/What's%20this%20Called(Fashion%20Clothing%20Segementation))
 ![WtCiF](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/What's%20this%20Called.png)
-- The system uses pixel-wise detection algorthims to detect various product categories in the user input image and then segments it to particular types of clothing like Tshirts, Pants, Jackets etc and further can be used to find similar products based on a certain kind of segementation.
+- The system uses pixel-wise detection algorithms to detect various product categories in the user input image and then segments it to particular types of clothing like Tshirts, Pants, Jackets etc and further can be used to find similar products based on a certain kind of segmentation.
 
-### [Rent the Fashion : A Rental Clothing Recommender System](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/Rent%20the%20Fashion(Rental%20Clothing%20Recommender))
+### [Rent the Fashion : A Rental Clothing Recommender System](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/Additional%20Experiments/Rent%20the%20Fashion(Rental%20Clothing%20Recommender))
 ![Rentit](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/Rent%20the%20Fashion.png)
-- A recommender system that recommends the clothes to the female customers for their rental purpose. The rental purposes depend on the activities a user wants to carry out, such as: vacation, meetings, weddings, dates, etc. The recommendation is based on the features like customers’ height, weight, bust size, body type, age, and reason to rent.This improves costumer's experience and preserves trend in fashion.
+- A recommender system that recommends the clothes to the female customers for their rental purposes. The rental purposes depend on the activities a user wants to carry out, such as: vacation, meetings, weddings, dates, etc. The recommendation is based on features like customers’ height, weight, bust size, body type, age, and reason to rent.This improves costumer's experience and preserves trend in fashion.
 <!-- * [License](#license) -->
