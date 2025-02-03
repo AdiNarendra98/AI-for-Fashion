@@ -1,6 +1,6 @@
 # GAN-Based Fashion Outfit Generator
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/mfrashad/ClothingGAN)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Dinoking/GANFashionOutfitGenerator)
 
 ## Inspiration
 GAN or Generative Adversarial Network is a generative model that able to generate images by learning the probability distribution of a large image dataset. I always find GANs fascinating as it enables me to generate high-quality arts or design even without the technical or artistic skill in drawing. Recently, I've seen many face editing demonstrations on GAN, but never seen semantic manipulation in other datasets. Hence,  I created ClothingGAN an application where you can collaboratively design clothes without high technical expertise.
