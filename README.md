@@ -1,7 +1,16 @@
 # Generative Models and Recommender Systems for AI-driven Fashion
 - This repository contains all experiments conducted part of my **undergraduate thesis** titled **"Generative Models and Recommender Systems for AI-driven Fashion"** at OUTR.
-- Artificial Intelligence has significantly influenced every aspect of the fashion industry, spanning design, production, and consumption. With its rapid pace of development, AI has seamlessly integrated into the fashion world, known for its openness to adopting new technologies. Over the past decade, AI has been utilized for analyzing fashion trends and understanding consumer preferences. Its impact on style and its role in phenomena like Fast Fashion is undeniable. The digitalization of the clothing industry, evolving from version 4.0 to an imminent 5.0, underscores the increasing reliance on advanced technology, particularly the broader integration of Artificial Intelligence. This involves diverse applications such as Recommendation Systems, Anomaly Detection in Textiles, Smart Textiles, AI-based Designing, Trend Prediction, and more.
 
+## Abstract
+
+Artificial Intelligence has profoundly transformed the fashion industry, reshaping design, production, and consumer engagement. In particular, AI-driven techniques have revolutionized fashion recommendation systems and image generation, enhancing both creativity and personalization. This thesis explores two key methodologies within these domains.
+
+
+First, we introduce a **GAN Based Fashion Outfit Generator** for which we train a **StyleGAN2-ADA** model on the **Lookbook dataset** to generate realistic fashion images, achieving competitive performance. Using **GANSpace**, we identify and analyze latent space directions in an unsupervised manner, eliminating the need for labelled attributes and improving interpretability. The final model is deployed on **Hugging Face Spaces** with an interactive **Gradio UI**, enabling real-time exploration of generative fashion design.  
+
+Second, we develop a **LightGBM-based Fashion recommender system** by integrating **collaborative filtering and gradient boosting (LightGBM)** to enhance personalization. Leveraging **text processing, dimensionality reduction, and similarity-based techniques**, we extract meaningful insights from the **H&M Fashion** and **Kaggle Fashion Product datasets**. We train two models: **User-User Collaborative Filtering (UUCF)** and **LightGBM**, evaluating their performance using **Mean Average Precision @ 12 (MAP@12)**. Our results demonstrate that **boosting techniques consistently outperform filtering-based methods**, underscoring their effectiveness in improving recommendation accuracy.  
+
+Our findings highlight the transformative potential of **generative modelling for fashion synthesis** and **machine learning techniques for data-driven, personalized recommendations**, paving the way for more intelligent AI applications in fashion retail.
 
 
 ## Experiments
