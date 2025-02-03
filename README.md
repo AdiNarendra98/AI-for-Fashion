@@ -9,7 +9,7 @@
 ![teaser](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/Guccio%20Ai.png)
 - Using Generative Adversarial Networks, our model can generate clothing images and mix these images. While mixing, you can control which structure or style you want the clothing to copy. Additionally, you can edit the generated clothing with several given attributes such as dark colour, jacket, dress, or coat.
 
-2. ### [iDresser : An AI Based Fashion Recommendation Assistant](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/iDresser-An%20AI%20Based%20Fashion%20Assistant)
+2. ### [Fashion Recommender Engine using LightGBM](https://github.com/AdiNarendra98/AI-for-Fashion/tree/main/iDresser-An%20AI%20Based%20Fashion%20Assistant)
 ![iDresser](https://github.com/AdiNarendra98/AI-for-Fashion/blob/main/ss/iDresser.png)
 - Using LightGBM, iDresser unlike the conventional systems that rely on the user's previous purchases and history, this project aims at using an image of a product given as input by the user to generate recommendations since many a time people see something that they are interested in and tend to look for products that are similar to that.
 
